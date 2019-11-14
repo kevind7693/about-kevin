@@ -6,7 +6,7 @@ School: High School of Telecommunication Arts and Technology
 
 Bio: I am currently a junior in the High School of Telecommunication Arts and Technology.  
     I am taking taking 2 APs this year and an elective.   
-
+    
 Schedule:
 1. English
 2. Spanish 
@@ -16,5 +16,10 @@ Schedule:
 6. US History 
 7. AP Chemistry 
 8. Gym 
+
+Hoodies:
+* Games
+* Computers 
+* Reading 
 
 [My Wedsite](https://sites.google.com/a/hstat.org/kevind7693sep10/)
