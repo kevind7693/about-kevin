@@ -2,12 +2,13 @@
 
 ## Email: kevind7693@hstat.org
 
-  School: High School of Telecommunication Arts and Technology 
+School: High School of Telecommunication Arts and Technology 
 
-  Bio: I am currently a junior in the High School of Telecommunication Arts and Technology. I am taking taking 2 APs this year and an elective. 
+Bio: I am currently a junior in the High School of Telecommunication Arts and Technology.  
+    I am taking taking 2 APs this year and an elective.   
 
 Schedule:
-1. English 
+1. English
 2. Spanish 
 3. Sep (Software Engineering)
 4. Lunch
